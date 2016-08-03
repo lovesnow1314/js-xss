@@ -1,4 +1,7 @@
+New
+
 [![NPM version](https://badge.fury.io/js/xss.png)](http://badge.fury.io/js/xss)
+
 [![Build Status](https://secure.travis-ci.org/leizongmin/js-xss.png?branch=master)](http://travis-ci.org/leizongmin/js-xss)
 [![Dependencies Status](https://david-dm.org/leizongmin/js-xss.png)](https://david-dm.org/leizongmin/js-xss)
 [![testling badge](https://ci.testling.com/leizongmin/js-xss.png)](https://ci.testling.com/leizongmin/js-xss)
